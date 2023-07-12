@@ -2,7 +2,7 @@
 
 ### Description:
 
-> This budget app is an application where people can log their financial transactions. This project brings together various skills in JavaScript, website development, React, servers, and RESTful routes.
+> This budget app is an application where people can log their financial transactions. This project brings together various skills in JavaScript, web deployment, React, servers, RESTful routes, and CSS.
 
 ---
 
